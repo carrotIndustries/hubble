@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "SFH11-PBPC-D10-ST-BK"
+    ],
+    "datasheet": [
+        false,
+        "https://drawings-pdf.s3.amazonaws.com/11160.pdf"
+    ],
+    "description": [
+        false,
+        "20 Pin header with polarizing key"
+    ],
+    "entity": "8b3bdf54-336c-485e-94d9-021ecf72a0d7",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Sullins Connector Solutions"
+    ],
+    "model": "07929169-bf2c-44fb-a11a-a166556f9b8a",
+    "package": "030a8458-fbfa-4505-ab7f-89b1bbd2a2ff",
+    "pad_map": {
+        "05c88091-63af-4998-86fd-224740ca6316": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "a70e83e7-74cb-400f-97a3-f8adc93f4de2"
+        },
+        "10e8d720-5968-4eb0-bf32-2b61ac317f84": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "fffd9dcc-5792-40e5-9ef9-dc9055b604a8"
+        },
+        "1e59234f-7a0a-46db-8c02-172ddafb2137": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "19c1ed7b-85b2-4a5d-90ea-71efe5c3db98"
+        },
+        "20898921-a1ae-450e-8ab9-1bbe2686f712": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "8f783ee5-e3ce-4ecb-8066-0262565b02b6"
+        },
+        "2675eb67-6a08-4585-a1d4-2b0bf1c2a7ad": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "9527e2f6-6aca-43d0-be91-b3d422c887db"
+        },
+        "575acd68-2e16-4cfd-a381-4fe4d7c53b23": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "0a71efc9-02ac-4582-b3e4-b8741ead418d"
+        },
+        "635c0255-fa18-4984-9ac1-852367a6cd57": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "7fe1398d-63c6-4b14-b735-25814184837f"
+        },
+        "66cb4d68-67f9-4ba7-ab7b-d3b97f6ac01c": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "b221b9fb-88ff-463e-9fd0-e3e226cbae44"
+        },
+        "67b1cf75-0834-4400-a766-ce22c6e2ba69": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "53a21b03-f68c-45d4-b326-a94d9ac86088"
+        },
+        "6850ecf4-d276-4f9a-a583-7027aba0254a": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "6c797f0c-674e-4f4f-bc90-8b362cde6b2e"
+        },
+        "7c3380b2-4319-41a0-88c1-c683ddff307c": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "489bba81-d6e2-4e4a-b268-744d6d2b087f"
+        },
+        "96fe6e8b-b9ee-4f31-b024-20d3f16ceace": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "143a8159-6206-4c26-a73d-d595caf5cf10"
+        },
+        "a2d30ea2-9532-45c3-a82e-1734caa8851f": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "e9917b33-b9fa-48d2-8b92-c0f42ec473de"
+        },
+        "c3decf6a-17cc-40db-ad25-65fd06d7d02c": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "240f32fa-8413-49f6-af6a-4c57224aa699"
+        },
+        "d2ca47c2-ddee-4514-b2b2-9a3ef2518000": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "270551c9-a113-4c97-9406-27ff5dd5f937"
+        },
+        "dc860922-d0d5-4c33-aa41-8d4f336df7d1": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "828c7fd5-900a-401b-9eae-817ca714a5b0"
+        },
+        "e94fa3d6-72a7-4da3-8cfd-35e59e8f8f23": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "08ccff74-544d-43de-af54-6e88b2438323"
+        },
+        "ead38248-88cb-419b-a16e-b63bfa00766f": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "981ab2a5-9182-430b-8ce0-c13faf87b7d1"
+        },
+        "f4d2eaa6-bbb3-49b6-8c1d-b3f1db2fd9d9": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "6b43d393-9784-40a1-ad5b-5776f38ce000"
+        },
+        "fd8d1e6d-2bfb-45fe-85e0-bfd5004c03e6": {
+            "gate": "1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c",
+            "pin": "b841c304-c259-44d0-a64f-29aafed4d0b6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "30bc2df1-6813-4952-abf6-30bc84616d07",
+    "value": [
+        false,
+        ""
+    ]
+}

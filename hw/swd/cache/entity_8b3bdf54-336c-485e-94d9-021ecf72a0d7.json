@@ -1,0 +1,1 @@
+{"type": "entity", "manufacturer": "", "prefix": "J", "name": "Generic 20 pin connector", "tags": ["connector", "generic"], "uuid": "8b3bdf54-336c-485e-94d9-021ecf72a0d7", "gates": {"1c0964c8-5ee9-4ab8-be72-da4e04fcdc2c": {"name": "Main", "suffix": "", "swap_group": 0, "unit": "65ca7042-168b-4fbf-8455-9fadd57d86e5"}}}

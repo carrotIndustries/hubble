@@ -1,0 +1,1 @@
+{"type": "entity", "manufacturer": "", "prefix": "J", "name": "Generic 7 pin connector", "tags": ["connector", "generic"], "uuid": "3163122e-5414-47a0-aa58-449d007268d4", "gates": {"5abc16ba-5d27-46bc-8b0f-7b7685a3d36b": {"name": "Main", "suffix": "", "swap_group": 0, "unit": "a5d6080d-39f4-4e3d-aa5f-bb9520c2a657"}}}
