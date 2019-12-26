@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "TMM-102-01-_-S-RA"
+    ],
+    "datasheet": [
+        false,
+        "http://suddendocs.samtec.com/prints/tmm-1xx-xx-xx-x-ra-xxx-mkt.pdf"
+    ],
+    "description": [
+        false,
+        "2 Pin 2.00mm header right-angle"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Samtec"
+    ],
+    "model": "f86687dd-bc1b-4cf3-a23e-0e1605e34ee5",
+    "package": "d9b94dc5-539c-47cc-8bc3-724405aeb207",
+    "pad_map": {
+        "0e886b23-39bd-40f5-adfa-e002493be381": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "4fc8756f-374f-422c-9cce-ec8d34e4645a": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "90c2bb49-c448-47ec-a447-1e9f795aebe7",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "hubble-led",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "Hubble LED",
+    "type": "project",
+    "uuid": "01ff2d76-c6fd-4b25-bfce-49df5119c72b",
+    "vias_directory": "vias"
+}

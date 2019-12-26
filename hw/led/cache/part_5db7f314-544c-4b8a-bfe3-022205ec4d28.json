@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "FP11121_LISA2-O-CLIP"
+    ],
+    "datasheet": [
+        false,
+        "LED lens, snap in"
+    ],
+    "description": [
+        false,
+        "http://www.ledil.com/data/prod/Lisa/11121/11121-ds.pdf"
+    ],
+    "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Ledil"
+    ],
+    "model": "21e90a44-6d06-4702-8057-5d2a31c34357",
+    "package": "5899c4ac-8ed7-4732-943e-7f841d4a96f7",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "lens",
+        "mechanical"
+    ],
+    "type": "part",
+    "uuid": "5db7f314-544c-4b8a-bfe3-022205ec4d28",
+    "value": [
+        false,
+        ""
+    ]
+}

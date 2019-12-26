@@ -1,0 +1,108 @@
+{
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "06a5d695-a101-4825-9293-488266b2e02b": {
+            "connections": {
+                "c8168f99-a1ca-4d98-bbb7-066f8cad2346/22a4d1bc-6ea2-4f21-b4de-4c1636ae3a3b": {
+                    "net": "ae43ced0-7ceb-49b9-a8ba-6625bc4a57cf"
+                },
+                "c8168f99-a1ca-4d98-bbb7-066f8cad2346/3c305ca9-14d3-40b4-a365-8938959c043e": {
+                    "net": "287496d3-1a31-412f-9fb9-dee37fc537ea"
+                },
+                "c8168f99-a1ca-4d98-bbb7-066f8cad2346/f3a0ce45-6d5e-453b-9649-33baf57cc7b7": {
+                    "net": "47c1d982-bb11-43a1-8988-045acb622e2c"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "7aea1811-235c-4f06-933b-1080df3d31ba",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "6ac253eb-6518-4cd5-ab1f-47ee3a0aa9a3",
+            "pin_names": {},
+            "refdes": "D1",
+            "tag": "ae2afab6-5556-4f65-a2ce-67b6ff2f52b7",
+            "value": ""
+        },
+        "29cc0bb6-0845-42e9-9166-0b97134bdbaf": {
+            "connections": {},
+            "custom_pin_names": {},
+            "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "5db7f314-544c-4b8a-bfe3-022205ec4d28",
+            "pin_names": {},
+            "refdes": "MP1",
+            "tag": "fc00e1d2-1d75-4edb-afc0-7a5caf8b8eb9",
+            "value": ""
+        },
+        "51fa2814-a7e3-4b3f-8eab-9b4e21e672ab": {
+            "connections": {
+                "eb7f68b1-6fba-4a35-a470-2cecb23fe087/588536f1-9e96-4500-bcbb-4ba48082b643": {
+                    "net": "47c1d982-bb11-43a1-8988-045acb622e2c"
+                },
+                "eb7f68b1-6fba-4a35-a470-2cecb23fe087/b3cef4f5-fe6c-45b5-b063-1618f997168f": {
+                    "net": "287496d3-1a31-412f-9fb9-dee37fc537ea"
+                }
+            },
+            "custom_pin_names": {},
+            "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "0afec80c-6a9a-4b8c-aa2f-101fe01f7659",
+            "pin_names": {},
+            "refdes": "J1",
+            "tag": "af2747e2-a4c2-4073-b75b-0bdba2fb5852",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "",
+    "net_class_default": "42cdc0d9-1b53-485c-bf1d-1b465eadc6b2",
+    "net_classes": {
+        "42cdc0d9-1b53-485c-bf1d-1b465eadc6b2": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "287496d3-1a31-412f-9fb9-dee37fc537ea": {
+            "is_power": false,
+            "name": "LED_K",
+            "net_class": "42cdc0d9-1b53-485c-bf1d-1b465eadc6b2",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "47c1d982-bb11-43a1-8988-045acb622e2c": {
+            "is_power": false,
+            "name": "LED_A",
+            "net_class": "42cdc0d9-1b53-485c-bf1d-1b465eadc6b2",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "ae43ced0-7ceb-49b9-a8ba-6625bc4a57cf": {
+            "is_power": true,
+            "name": "GND",
+            "net_class": "42cdc0d9-1b53-485c-bf1d-1b465eadc6b2",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "tag_names": {
+        "ae2afab6-5556-4f65-a2ce-67b6ff2f52b7": "1",
+        "af2747e2-a4c2-4073-b75b-0bdba2fb5852": "2",
+        "fc00e1d2-1d75-4edb-afc0-7a5caf8b8eb9": "0"
+    },
+    "uuid": "116a6506-d6f4-4604-bd39-fedcb5bda681"
+}

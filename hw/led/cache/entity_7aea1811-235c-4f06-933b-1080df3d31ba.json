@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c8168f99-a1ca-4d98-bbb7-066f8cad2346": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "25a3d833-f0a5-4b3f-91ec-36b235b1d6d7"
+        }
+    },
+    "manufacturer": "",
+    "name": "LED with thermal pad",
+    "prefix": "D",
+    "tags": [
+        "led",
+        "opto"
+    ],
+    "type": "entity",
+    "uuid": "7aea1811-235c-4f06-933b-1080df3d31ba"
+}

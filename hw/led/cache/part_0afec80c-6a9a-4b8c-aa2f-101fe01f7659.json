@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TMM-102-01-T-S-RA"
+    ],
+    "base": "90c2bb49-c448-47ec-a447-1e9f795aebe7",
+    "datasheet": [
+        true,
+        "http://suddendocs.samtec.com/prints/tmm-1xx-xx-xx-x-ra-xxx-mkt.pdf"
+    ],
+    "description": [
+        true,
+        "2 Pin 2.00mm header right-angle"
+    ],
+    "inherit_model": false,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Samtec"
+    ],
+    "model": "f86687dd-bc1b-4cf3-a23e-0e1605e34ee5",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0afec80c-6a9a-4b8c-aa2f-101fe01f7659",
+    "value": [
+        true,
+        "TMM-102-01-_-S-RA"
+    ]
+}

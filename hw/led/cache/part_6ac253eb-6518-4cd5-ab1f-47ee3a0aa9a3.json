@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "Xlamp XP-E"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cree.com/led-components/media/documents/XLampXPE.pdf"
+    ],
+    "description": [
+        false,
+        "Xlamp XP-E LED"
+    ],
+    "entity": "7aea1811-235c-4f06-933b-1080df3d31ba",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Cree"
+    ],
+    "model": "e39f4461-22fe-4c64-bbdc-6bc131d335a5",
+    "package": "19fcebde-c90d-4cfc-b163-d8b52146c0e3",
+    "pad_map": {
+        "5de087dd-09f2-4129-b93a-10c3ddadc210": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "22a4d1bc-6ea2-4f21-b4de-4c1636ae3a3b"
+        },
+        "6e3a84fd-6f63-42d3-8829-6a59b3fbc86b": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        },
+        "fe6b606c-4b25-42c4-ad21-44dca136486c": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led"
+    ],
+    "type": "part",
+    "uuid": "6ac253eb-6518-4cd5-ab1f-47ee3a0aa9a3",
+    "value": [
+        false,
+        ""
+    ]
+}
