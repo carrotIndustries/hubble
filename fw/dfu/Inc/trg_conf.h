@@ -1,0 +1,1 @@
+#define TRG_BOOTLOADER 1
