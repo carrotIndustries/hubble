@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "Boost regulator with enable",
+    "pins": {
+        "1f43044c-b0d1-4d23-8a61-ee6cc09df3d1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a2485859-f81f-455b-8e07-44d7d0118856": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "b12044c7-2f07-48d6-b03b-609b3c6036d7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "d839d86e-1f44-431c-ba95-622e2c9d4f86": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "de6b159a-e426-4cb6-9bf8-9d1a9279e0fa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e6d2aa0d-d714-4689-bf88-95678de8504f"
+}

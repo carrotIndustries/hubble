@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "AP2280-1WG-7"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/AP2280.pdf"
+    ],
+    "description": [
+        false,
+        "Single Channel Slew Rate Controlled Load Switch"
+    ],
+    "entity": "ab428500-9156-4918-b231-9c1e2e508454",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "66f70a79-9f2b-4763-8cfd-da5630d2f8a3",
+            "pin": "12961696-7cc9-421b-8bfd-cff81a19c7ef"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "66f70a79-9f2b-4763-8cfd-da5630d2f8a3",
+            "pin": "1e56f6f1-0d07-4852-9694-fa2c52863628"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "66f70a79-9f2b-4763-8cfd-da5630d2f8a3",
+            "pin": "589649f4-2557-42d6-8fb1-162bf077317b"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "66f70a79-9f2b-4763-8cfd-da5630d2f8a3",
+            "pin": "0ea50991-150f-4e33-8d59-a454c877165f"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "66f70a79-9f2b-4763-8cfd-da5630d2f8a3",
+            "pin": "be9508f9-7e5e-42b0-80d5-b530990ca21a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "8e4e2ee8-8c44-4497-a241-14ea8c3ea215",
+    "value": [
+        false,
+        ""
+    ]
+}

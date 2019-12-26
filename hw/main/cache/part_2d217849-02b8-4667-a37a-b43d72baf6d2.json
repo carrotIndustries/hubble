@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "AP9211"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/AP9211.pdf"
+    ],
+    "description": [
+        false,
+        "Single chip Li-Ion protection IC"
+    ],
+    "entity": "f7ebd877-c58b-42ad-bf4e-360ce61908e9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "57476afd-d664-4268-bac3-704b58c85add",
+    "pad_map": {
+        "33ac2f01-ede9-4ff1-9f41-7b2f5fc0ea14": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "1ab5cc66-5fb3-41bf-a7c1-a57870410fba"
+        },
+        "7fb6f83e-6bd3-465d-9e57-bcbf4e85d997": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "caa3636a-38f7-4555-9ced-b8b7170bc79f"
+        },
+        "b5f3aecc-c578-4642-8ea0-00de63d93016": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "d69668f3-3a17-40bd-af0c-06b7ae54f5b4"
+        },
+        "cb1a4635-f5f1-4ce9-a546-d030434d68a8": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "45bc1511-265b-4fd6-a43d-379e48c08d4e"
+        },
+        "d6d72140-207f-45cb-9fea-898e6fc15b82": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "cd5b5a0b-b9bf-4d35-ad2a-3ca041127a2c"
+        },
+        "e710885e-2812-4844-9633-d91b6367ec3f": {
+            "gate": "9e5b2e64-f0f4-48ff-8d48-068a5358d14f",
+            "pin": "890be75c-92d1-4665-a6cf-6755ed9a5c48"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "2d217849-02b8-4667-a37a-b43d72baf6d2",
+    "value": [
+        false,
+        ""
+    ]
+}

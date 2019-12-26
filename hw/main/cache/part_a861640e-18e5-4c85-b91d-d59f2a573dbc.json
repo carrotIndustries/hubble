@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CC0603K_X7R9BB223"
+    ],
+    "base": "6f27eb66-40e7-4dcc-baa1-887f336d41ed",
+    "datasheet": [
+        false,
+        "http://www.yageo.com/portal/product/productDocs.jsp?YageoPartNumber=CC0603K_X7R9BB223"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 22 nF 50 V X7R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "f5dfc5a3-6abf-4691-be25-db44033bd37d": "CC0603KRX7R9BB223",
+        "fb15845a-6e46-4e9f-b4fd-57f0b870e1dc": "CC0603KPX7R9BB223"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "type": "X7R",
+        "value": "2.2000e-08",
+        "wvdc": "50.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a861640e-18e5-4c85-b91d-d59f2a573dbc",
+    "value": [
+        false,
+        "22 nF"
+    ]
+}

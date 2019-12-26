@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "MCP1661T-E/OT"
+    ],
+    "datasheet": [
+        false,
+        "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570354"
+    ],
+    "description": [
+        false,
+        "High-Voltage Integrated Switch PWM Boost Regulator with UVLO"
+    ],
+    "entity": "5c723cab-5313-419e-aed3-6e5a34777da8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "1f43044c-b0d1-4d23-8a61-ee6cc09df3d1"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "b12044c7-2f07-48d6-b03b-609b3c6036d7"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "a2485859-f81f-455b-8e07-44d7d0118856"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "d839d86e-1f44-431c-ba95-622e2c9d4f86"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "de6b159a-e426-4cb6-9bf8-9d1a9279e0fa"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "bb8fcb8a-9724-457f-a393-939bd4b3bc00",
+    "value": [
+        false,
+        ""
+    ]
+}

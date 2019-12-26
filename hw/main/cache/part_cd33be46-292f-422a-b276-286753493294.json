@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "MBR0520LT1G"
+    ],
+    "base": "d7835072-6ec8-49af-b9cf-22ad75e143da",
+    "datasheet": [
+        false,
+        "http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF"
+    ],
+    "description": [
+        false,
+        "Surface Mount Schottky Power Rectifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "parametric": {},
+    "tags": [
+        "schottky"
+    ],
+    "type": "part",
+    "uuid": "cd33be46-292f-422a-b276-286753493294",
+    "value": [
+        true,
+        "base SOD-123 diode"
+    ]
+}

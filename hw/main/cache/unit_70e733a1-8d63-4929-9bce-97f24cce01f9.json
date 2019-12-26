@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Diodes Inc.",
+    "name": "AP2280",
+    "pins": {
+        "0ea50991-150f-4e33-8d59-a454c877165f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "12961696-7cc9-421b-8bfd-cff81a19c7ef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "1e56f6f1-0d07-4852-9694-fa2c52863628": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "589649f4-2557-42d6-8fb1-162bf077317b": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "DIS",
+            "swap_group": 0
+        },
+        "be9508f9-7e5e-42b0-80d5-b530990ca21a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "70e733a1-8d63-4929-9bce-97f24cce01f9"
+}

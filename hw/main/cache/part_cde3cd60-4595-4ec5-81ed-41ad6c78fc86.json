@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "PTS525S[MK]"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ckswitches.com/media/1467/pts525.pdf"
+    ],
+    "description": [
+        false,
+        "Microminiature Tact Switch for SMT"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "C&K"
+    ],
+    "model": "6dbf58a5-7b7d-4e91-b33b-d59e81fc99b0",
+    "package": "e4154d23-4454-4f15-a001-35dc80912e84",
+    "pad_map": {
+        "6df9bdd7-2d5e-4672-8529-010c5b9ed236": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "7ac5b725-369b-4928-9261-dbe0b030862c": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "a75dc8a4-0b89-4155-a3fe-787ecba74904": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "eb32d031-1242-4707-841c-92ebc864162d": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "button",
+        "momentary",
+        "spst",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "cde3cd60-4595-4ec5-81ed-41ad6c78fc86",
+    "value": [
+        false,
+        ""
+    ]
+}

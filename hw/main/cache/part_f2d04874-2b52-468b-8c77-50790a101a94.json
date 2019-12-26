@@ -1,0 +1,79 @@
+{
+    "MPN": [
+        false,
+        "U77A1114100T"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/u77a111xxx0x.pdf"
+    ],
+    "description": [
+        false,
+        "SFP cage"
+    ],
+    "entity": "267343bf-e6bf-42f4-b256-381dd96f011d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol FCI"
+    ],
+    "model": "e81dcf8e-d482-4416-a649-74ca7c47b7c9",
+    "package": "d37d22c0-a371-4fb1-98ef-511f368f16ea",
+    "pad_map": {
+        "03d7750b-4870-4a87-b930-445257dbbd18": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "1ae0aeb2-9d95-4c90-8bd5-0b7593a65144": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "34dde817-798f-4273-a4f9-fb3cc538f8c2": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "37c48908-27d7-43e0-90d0-5c88dd435526": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "4798a170-a5ef-4324-bce4-8fb87db64503": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "7106d1df-c300-4210-8ca0-5773a32252d5": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "92da0e4d-e2b2-40b3-b1f1-e6b92a49129d": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "98932c58-f582-458b-97f8-e35efbeee256": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "a639a863-c7ef-4de0-99d1-95cbc2fb2d17": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "c1de1e83-eeca-4f8a-a246-dd90d610a87d": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "fd7cffbc-c25a-4e47-a607-f8ea27375bb4": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "sfp"
+    ],
+    "type": "part",
+    "uuid": "f2d04874-2b52-468b-8c77-50790a101a94",
+    "value": [
+        false,
+        ""
+    ]
+}

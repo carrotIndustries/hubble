@@ -1,0 +1,167 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "DS1xxDF111",
+    "pins": {
+        "04f08828-d9ae-4698-aab7-79b1ef65c68e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENSMB",
+            "swap_group": 0
+        },
+        "051303b1-dee3-43e2-96ae-9ad1d86e2273": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTB-",
+            "swap_group": 0
+        },
+        "0888fc51-1713-49b3-9e9c-8914cc951ccb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REFCLK_IN",
+            "swap_group": 0
+        },
+        "18649bea-28ff-4147-a861-ad6001d9078f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INB+",
+            "swap_group": 0
+        },
+        "1dfe4a4e-0fec-4116-b8cc-75bfc1a551ee": {
+            "direction": "input",
+            "names": [
+                "DEMB"
+            ],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "1efa2cfa-e9e5-4a91-b500-161e570f4f45": {
+            "direction": "input",
+            "names": [
+                "LBK"
+            ],
+            "primary_name": "TX_DIS",
+            "swap_group": 0
+        },
+        "3474d92b-f8f5-4694-8d55-4c8706e40af2": {
+            "direction": "input",
+            "names": [
+                "LOCK"
+            ],
+            "primary_name": "ADDR0",
+            "swap_group": 0
+        },
+        "3670eaeb-da5a-4097-af9b-bb262f5bde35": {
+            "direction": "input",
+            "names": [
+                "VODA"
+            ],
+            "primary_name": "~READEN",
+            "swap_group": 0
+        },
+        "522bfef7-d16d-404d-86e8-664312a1431a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTB+",
+            "swap_group": 0
+        },
+        "6f51295b-1c32-4ba3-be78-d51de92dae08": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7396ae1a-7b8c-4484-ad35-302ab7285831": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INA-",
+            "swap_group": 0
+        },
+        "74f5663e-9049-4d5e-b077-fa5623bf0e25": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "8ec1151f-055e-425b-894b-06c27d26dadc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LPF_CP_B",
+            "swap_group": 0
+        },
+        "923f0765-a2e0-49c2-8a20-b0ace1d92813": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LPF_REF_A",
+            "swap_group": 0
+        },
+        "984b36df-ad4b-4ef3-b21b-d2cf5d1a1388": {
+            "direction": "input",
+            "names": [
+                "VODB",
+                "~DONE"
+            ],
+            "primary_name": "ADDR1",
+            "swap_group": 0
+        },
+        "aee8801e-1cdd-43c7-84c2-399f887a3f5c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LPF_CP_A",
+            "swap_group": 0
+        },
+        "af65347b-a409-488a-a23d-8cedfafb1172": {
+            "direction": "input",
+            "names": [
+                "~INT"
+            ],
+            "primary_name": "LOS",
+            "swap_group": 0
+        },
+        "b229240d-cf10-4270-b34c-982eadbc7e21": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTA-",
+            "swap_group": 0
+        },
+        "b6ea230a-4d3c-487a-a55e-1dbea4052c34": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INB-",
+            "swap_group": 0
+        },
+        "cb3575ee-f81d-472d-8cc1-c2f12058fc05": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LPF_REF_B",
+            "swap_group": 0
+        },
+        "cba491a1-348d-49d8-b279-6659f6f5b125": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "INA+",
+            "swap_group": 0
+        },
+        "e726af84-4b2f-428a-b0da-61d465a1fc1b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTA+",
+            "swap_group": 0
+        },
+        "ee64cbe4-4c00-4388-a65f-b2f45433f5d5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "fe215b7a-ea4d-4fea-a58c-fa805abb379e": {
+            "direction": "input",
+            "names": [
+                "DEMA"
+            ],
+            "primary_name": "SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7019e204-e404-4bcd-828b-3486c16dec3a"
+}

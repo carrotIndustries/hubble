@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "bq24040",
+    "pins": {
+        "290dcbf6-3622-4cb5-aeb2-28368bfefea2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "2bda561c-5ac2-4b00-9d9c-374ed271a5b8": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~CHG",
+            "swap_group": 0
+        },
+        "36d10cd2-df41-4cc8-9712-97d9dc1b87d3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ISET",
+            "swap_group": 0
+        },
+        "3ecf16a3-b82f-437e-a29a-9d650b7c80b5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PRETERM",
+            "swap_group": 0
+        },
+        "4e080604-fd5c-41e1-801c-a603689c81b6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ISET2",
+            "swap_group": 0
+        },
+        "ac26aeef-9b8d-4ee1-9582-d946980bf0fd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TS",
+            "swap_group": 0
+        },
+        "be1392b7-1a49-497b-b956-62668c0581a3": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "cb4e69dc-c831-412e-aa73-3bb43e5f73c4": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~PG",
+            "swap_group": 0
+        },
+        "ce068e72-6473-41bd-8442-11e89e527f42": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "94818c76-c777-496a-a103-4c2379990a9b"
+}

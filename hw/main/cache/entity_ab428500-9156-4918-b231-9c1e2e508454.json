@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "66f70a79-9f2b-4763-8cfd-da5630d2f8a3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "70e733a1-8d63-4929-9bce-97f24cce01f9"
+        }
+    },
+    "manufacturer": "Diodes Inc.",
+    "name": "AP2280",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "ab428500-9156-4918-b231-9c1e2e508454"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "94818c76-c777-496a-a103-4c2379990a9b"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "bq24040",
+    "prefix": "U",
+    "tags": [
+        "charger",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "c933ec53-003c-454f-a2bd-9fe4a7fc59c6"
+}

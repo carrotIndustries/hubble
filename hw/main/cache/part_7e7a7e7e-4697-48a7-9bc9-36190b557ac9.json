@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "RU 0603 Resistor Base Part"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/17/RU_Spec_Sheet(1901).pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Type Current Sensing Resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "5267224e-79d4-4ff6-afe5-ee24f02f36a3",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7e7a7e7e-4697-48a7-9bc9-36190b557ac9",
+    "value": [
+        true,
+        "base 0402 resistor"
+    ]
+}

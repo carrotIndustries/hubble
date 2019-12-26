@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bdbf0715-b40b-492c-bb09-e2d8df41680f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7019e204-e404-4bcd-828b-3486c16dec3a"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "DS1xxDF111",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "retimer"
+    ],
+    "type": "entity",
+    "uuid": "7fc885b0-a865-4ec5-a4cc-1a3680e34716"
+}

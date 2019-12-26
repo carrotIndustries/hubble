@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "hubble",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "Hubble",
+    "type": "project",
+    "uuid": "ff68f86f-92a6-46ba-8f5c-355c51e1b94f",
+    "vias_directory": "vias"
+}

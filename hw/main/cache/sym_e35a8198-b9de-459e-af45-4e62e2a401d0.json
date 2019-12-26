@@ -1,0 +1,168 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "027f6d40-f03e-4c98-9239-06117fba599a": {
+            "position": [
+                -8750000,
+                6250000
+            ]
+        },
+        "67176cb4-6bce-4575-8173-2965228c2946": {
+            "position": [
+                8750000,
+                -6250000
+            ]
+        },
+        "ba86559b-a3ff-4976-900e-4842a5b0436e": {
+            "position": [
+                8750000,
+                6250000
+            ]
+        },
+        "cdcff710-98e0-48e5-bd1d-b5e5abd2ebb4": {
+            "position": [
+                -8750000,
+                -6250000
+            ]
+        }
+    },
+    "lines": {
+        "27128ac2-802e-4c19-affe-6811a74b3f1b": {
+            "from": "67176cb4-6bce-4575-8173-2965228c2946",
+            "layer": 0,
+            "to": "ba86559b-a3ff-4976-900e-4842a5b0436e",
+            "width": 0
+        },
+        "8a6604f9-af92-42d9-a7ad-cb7bfea4a5f1": {
+            "from": "ba86559b-a3ff-4976-900e-4842a5b0436e",
+            "layer": 0,
+            "to": "027f6d40-f03e-4c98-9239-06117fba599a",
+            "width": 0
+        },
+        "c22681eb-5fdb-4065-b43a-e609b895945e": {
+            "from": "027f6d40-f03e-4c98-9239-06117fba599a",
+            "layer": 0,
+            "to": "cdcff710-98e0-48e5-bd1d-b5e5abd2ebb4",
+            "width": 0
+        },
+        "c55fc4aa-ed3c-4a34-b8c4-5893e8b270d7": {
+            "from": "cdcff710-98e0-48e5-bd1d-b5e5abd2ebb4",
+            "layer": 0,
+            "to": "67176cb4-6bce-4575-8173-2965228c2946",
+            "width": 0
+        }
+    },
+    "name": "Oscillator with single-ended output and output enable",
+    "pins": {
+        "025e3810-290c-4f20-96ef-7e5445e4273b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                8750000
+            ]
+        },
+        "37fe7855-2e8b-47e4-bf64-6bc0b3c3e619": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                0
+            ]
+        },
+        "4af91d9c-b058-4f76-a063-de1f20273ac8": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                11250000,
+                0
+            ]
+        },
+        "b481ccc7-46dc-4746-8387-dfdeaf819707": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -8750000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "3da6e384-41ef-409c-99d4-99c45a7aeea2": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "6a80e435-8763-49f8-b14f-c46c0618e332": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    -7500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "df1b4e47-be10-40c5-ab39-ec8ca5f2189f",
+    "uuid": "e35a8198-b9de-459e-af45-4e62e2a401d0"
+}

@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Oscillator with single-ended output and output enable",
+    "pins": {
+        "025e3810-290c-4f20-96ef-7e5445e4273b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "37fe7855-2e8b-47e4-bf64-6bc0b3c3e619": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        },
+        "4af91d9c-b058-4f76-a063-de1f20273ac8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "b481ccc7-46dc-4746-8387-dfdeaf819707": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "df1b4e47-be10-40c5-ab39-ec8ca5f2189f"
+}

@@ -1,0 +1,1 @@
+{"name": "Generic 2 pin connector", "manufacturer": "", "uuid": "c6a7e13e-6c70-4a80-a0dd-335d7b16967f", "type": "unit", "pins": {"b3cef4f5-fe6c-45b5-b063-1618f997168f": {"direction": "passive", "names": [], "swap_group": 0, "primary_name": "1"}, "588536f1-9e96-4500-bcbb-4ba48082b643": {"direction": "passive", "names": [], "swap_group": 0, "primary_name": "2"}}}

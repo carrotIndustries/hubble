@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "CL21A106KAYNNNF"
+    ],
+    "base": "b00f7f9a-540d-4440-a73a-32732a8a8027",
+    "datasheet": [
+        false,
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2018/11/01/Data sheet_CL21A106KAYNNNF.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor 10 \u00b5F 25 V X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "type": "X5R",
+        "value": "1.0000e-05",
+        "wvdc": "25.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "95a2742f-a0ee-40bc-9164-41bf3597d35a",
+    "value": [
+        false,
+        "10 \u00b5F"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "a12cf9a0-327d-480c-9599-4ad69f746390": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "249c5d42-11bf-4569-8ff4-0b03bcac7a03"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPD2E001DRL",
+    "prefix": "D",
+    "tags": [
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "6e907d39-7f84-475c-b270-e693d6035193"
+}

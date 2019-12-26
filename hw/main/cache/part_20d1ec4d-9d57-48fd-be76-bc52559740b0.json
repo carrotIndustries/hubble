@@ -1,0 +1,165 @@
+{
+    "MPN": [
+        false,
+        "FH19SC-30S-0.5SH(09)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.hirose.com/product/en/download_file/key_name/FH19SC%2D30S%2D0.5SH%2809%29/category/Drawing%20(2D)/doc_file_id/43074/?file_category_id=6&item_id=05800500209&is_series="
+    ],
+    "description": [
+        false,
+        "30 Pin FFC connector"
+    ],
+    "entity": "87b4784e-ac52-4917-b4cd-13703f3e9e0e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hirose"
+    ],
+    "model": "87caebe7-167c-4c26-b11f-7e59ba634b8f",
+    "package": "b0c8c92e-7aef-412b-a7a1-92ddb5475cf0",
+    "pad_map": {
+        "011c4850-251b-4cc0-a0ab-dfb38b878417": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "6ef0fc10-0cfa-4db3-9db7-7eab861b7f01"
+        },
+        "038fdf9f-fc85-4784-ad0d-c1323da5c7af": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "856cabcc-41b5-4f28-bc5c-805d5a196d90"
+        },
+        "2dfe05c8-cae1-4140-95e2-cf3466af0ae3": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "f5ac6c55-0b9d-4f73-9eb2-6752cd57a3fe"
+        },
+        "318a4a4b-93c4-4fec-9f7b-e2e4d6e4e06a": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "e8185794-9729-4dc2-94fd-078965679bf6"
+        },
+        "42216c03-a0fb-47c9-848f-baa770f76ab4": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "78430696-29f0-4d42-83a2-27b8ba2b79ba"
+        },
+        "4a030078-38cb-44c2-bb86-778350f2f486": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "4154480a-4c46-476d-a573-fbbf82e9fd79"
+        },
+        "50a5cb5a-a66d-4aed-98bf-d80b73c56e82": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "625fbf8d-cf89-4317-8f9b-ad5b401a441e"
+        },
+        "53c985b3-0581-4b84-afea-8f5cd3fbcad0": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "c4269e9a-8e59-4be0-a5a8-330f3b8d3519"
+        },
+        "54e09c5d-b083-4c65-b354-492f6bd383bd": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "270b1421-14db-41b3-8e8a-8a162da50801"
+        },
+        "5716ccb7-b2ef-4dc9-ac9a-50dfb00eb5ca": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "d5298351-ce7c-44f1-ac4d-748b28ac7607"
+        },
+        "578b5d1d-a2f8-45f0-bfb3-e2724a1163d3": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "a80f70d6-3f92-41d0-8a1f-2b7e370d7b92"
+        },
+        "5897653d-b628-4d5c-b224-1afd6d7053a4": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "310125bb-ced9-4d26-ab7f-6a35e5ee8b07"
+        },
+        "61934865-483c-4f5d-ba8e-28f56eff56d1": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "6bb57dcb-654a-4bb6-b6e0-7e456cd89939"
+        },
+        "6ea0004f-28cf-4569-9a0d-dd2fc38ca082": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "57587944-f847-41cb-886e-0818bb452788"
+        },
+        "7337f392-5f3d-4858-8a65-1fe120cc8372": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "564269cd-6eed-4fb0-9e0d-6d272cbc7fe8"
+        },
+        "7c08871e-fe4a-4781-90a5-f1f4c4be1a40": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "005eb261-85ba-4d76-84a8-8871c8a3218f"
+        },
+        "90697e3e-1c11-4d6d-90fc-3642354cc503": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "4b9e7e9c-c21d-4e4c-84a5-a1e0eb4b3db6"
+        },
+        "97ddc361-f856-4511-a1b5-cdd1cd924aea": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "40d3a9da-42ec-4563-bd80-8b87866679df"
+        },
+        "9efc2072-3fc6-4fd9-b8d1-8a1cbf910401": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "29c05a0c-b70f-4a83-a4f7-6f0397ec7562"
+        },
+        "9f4564d8-a27a-4ed3-9155-81ee98b7bd13": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "25382095-e678-4737-84f0-044e2920137e"
+        },
+        "a5d3de1c-409f-4d6b-a653-203f74b5e8ae": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "fbdcdb92-99aa-4b7e-8a9e-ba5cd9b267a9"
+        },
+        "a8a74415-4559-4897-8bbd-6208440bf4e2": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "40244034-8fb6-4ed5-a7df-7ef8d63c1c84"
+        },
+        "a9850361-46ed-40e8-a429-82f11754950c": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "bfe4eac4-2093-4712-86e1-ba6ef7d1fa48"
+        },
+        "ace4ede6-1948-4a62-a54c-2e23a7ac0d52": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "0ca2e2d9-23ed-49ea-90c4-89f4abd0d0fe"
+        },
+        "b373da48-e593-47a5-826a-d3bcfd09d501": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "5e5cb54b-37c6-4d31-ac49-442dfc3e40fd"
+        },
+        "b93bc701-802e-41c3-bc00-99fb4ea091e7": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "b9b0b326-1b29-4872-82b3-77e930f161cf"
+        },
+        "bb07e01b-2e16-4d79-a9b9-9a43f43f2b08": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "29c05a0c-b70f-4a83-a4f7-6f0397ec7562"
+        },
+        "bfc183de-caa6-46d8-a53b-2e9a6d74f1cf": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "90062af6-0660-4aec-938b-b8dd4c80683f"
+        },
+        "d5afdf3d-cf36-4681-8973-47dd96a3c2aa": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "3a8c81f4-944a-4028-afb0-f1d57c6bf48c"
+        },
+        "d6a1dc6c-386d-4c62-bdc3-d66757f97317": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "d6553466-52f6-4926-8a02-c4debf401b25"
+        },
+        "e31f930c-51ce-447a-9b13-b1a0787b0023": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "7ef7a8ab-a3d3-4070-b5f7-78a6cbcff1c9"
+        },
+        "f1a3315e-3d05-46f9-931a-b955e083348a": {
+            "gate": "d6c072c5-489f-47cb-8606-bf86e645973f",
+            "pin": "f3e68705-0ee0-4f00-ad7a-b8be5c782896"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "ffc",
+        "fpc"
+    ],
+    "type": "part",
+    "uuid": "20d1ec4d-9d57-48fd-be76-bc52559740b0",
+    "value": [
+        false,
+        ""
+    ]
+}

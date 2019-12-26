@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Push Switch SPST Off-On",
+    "pins": {
+        "831b482b-82af-40ba-8cc0-5e272f25cc2c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "97955848-10f4-4667-b838-46f6bb8fe085": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d5b9dc4b-7732-477d-bd7a-be760af429d5"
+}

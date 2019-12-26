@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-07750RL"
+    ],
+    "base": "9954497f-10af-4158-934b-3b53068f6de4",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Resistor General Purpose 750 \u03a9 1% 0.1W "
+    ],
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1.0",
+        "value": "750.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "96e0cd6c-3ab4-4dfc-a64f-f99113f93e84",
+    "value": [
+        false,
+        "750 \u03a9"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Diodes Inc.",
+    "name": "AP9211",
+    "pins": {
+        "1ab5cc66-5fb3-41bf-a7c1-a57870410fba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "45bc1511-265b-4fd6-a43d-379e48c08d4e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VM",
+            "swap_group": 0
+        },
+        "890be75c-92d1-4665-a6cf-6755ed9a5c48": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S2",
+            "swap_group": 0
+        },
+        "caa3636a-38f7-4555-9ced-b8b7170bc79f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "cd5b5a0b-b9bf-4d35-ad2a-3ca041127a2c": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "D",
+            "swap_group": 0
+        },
+        "d69668f3-3a17-40bd-af0c-06b7ae54f5b4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b2b8aeac-1d10-426c-94c4-37c4ba8a9e13"
+}

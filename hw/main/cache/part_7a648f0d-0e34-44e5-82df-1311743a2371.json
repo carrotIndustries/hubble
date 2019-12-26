@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "BQ24040DSQ"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/bq24040.pdf"
+    ],
+    "description": [
+        false,
+        "1A, Single-Input, Single Cell Li-Ion and Li-Pol Battery Charger With Auto Start"
+    ],
+    "entity": "c933ec53-003c-454f-a2bd-9fe4a7fc59c6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "072961c7-8e9c-4158-b8c1-ccec6a5d22de",
+    "orderable_MPNs": {
+        "29ae70de-44c2-4c22-9971-6ab81c61c0a8": "BQ24040DSQT",
+        "2ccb2709-043d-41ff-9852-569596e9715b": "BQ24040DSQR"
+    },
+    "package": "615a5e7a-5d6c-4aad-b021-d71711a6eb73",
+    "pad_map": {
+        "3d97242e-a790-409f-881d-49feb420ecf4": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "2bda561c-5ac2-4b00-9d9c-374ed271a5b8"
+        },
+        "403cdd02-ff69-47cb-9f7a-53cddcb6d1dd": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "290dcbf6-3622-4cb5-aeb2-28368bfefea2"
+        },
+        "4e669041-5e69-4531-bb47-47d56c72bd88": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "cb4e69dc-c831-412e-aa73-3bb43e5f73c4"
+        },
+        "54d0429f-95cd-4637-8fe5-9ef2a49e5014": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "36d10cd2-df41-4cc8-9712-97d9dc1b87d3"
+        },
+        "8ae22981-3fa5-4038-be59-3567d4a61092": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "ce068e72-6473-41bd-8442-11e89e527f42"
+        },
+        "8dbd6f8e-97cd-47d0-91f9-f9ddf5b8e682": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "ac26aeef-9b8d-4ee1-9582-d946980bf0fd"
+        },
+        "b92bf2cd-9725-4681-9afe-44c719d28c5e": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "3ecf16a3-b82f-437e-a29a-9d650b7c80b5"
+        },
+        "baee0762-8cde-451f-86c6-fcf4bae00dcc": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "4e080604-fd5c-41e1-801c-a603689c81b6"
+        },
+        "c55f1366-b63e-4faf-a45b-cd10d88ff886": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "290dcbf6-3622-4cb5-aeb2-28368bfefea2"
+        },
+        "f7f80e6f-65a9-4c49-9cc9-7c9ac04e3937": {
+            "gate": "89a6c3fc-7e2d-42c6-a9b8-2c7c791954d1",
+            "pin": "be1392b7-1a49-497b-b956-62668c0581a3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "charger",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "7a648f0d-0e34-44e5-82df-1311743a2371",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "57"
+    ],
+    "datasheet": [
+        false,
+        "https://www.keyelco.com/product-pdf.cfm?p=814"
+    ],
+    "description": [
+        false,
+        "AA battery holder"
+    ],
+    "entity": "267343bf-e6bf-42f4-b256-381dd96f011d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Keystone"
+    ],
+    "model": "46317aac-61e8-4c38-b160-724f247f8455",
+    "package": "6bd2e831-52db-4c54-bf87-23f1c3e96fdf",
+    "pad_map": {
+        "56e3b4f2-1eb3-4152-901e-b663a83f4378": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        },
+        "b664b0b8-34c6-4bbd-b9d1-1aebe9efa9b1": {
+            "gate": "26c95be6-8813-4f4b-a0e6-574ae9a6ae48",
+            "pin": "ad3f20fe-d1ca-40c1-9148-71c107694c90"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "AA",
+        "battery"
+    ],
+    "type": "part",
+    "uuid": "3dced990-9d9b-49c6-a657-4356cf86e98d",
+    "value": [
+        false,
+        ""
+    ]
+}

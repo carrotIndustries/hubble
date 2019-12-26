@@ -1,0 +1,27 @@
+{
+    "MPN": [
+        false,
+        "CPL-CAP-X5R-0805-10UF-16V"
+    ],
+    "base": "2f50150e-b407-4eda-899c-4a8339af9433",
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "CPL"
+    ],
+    "parametric": {
+        "table": "capacitors",
+        "value": "1.000000e-05",
+        "wvdc": "16.0",
+        "type": "X5R"
+    },
+    "tags": [
+        "cpl"
+    ],
+    "type": "part",
+    "uuid": "0228e225-3aec-4167-aaaa-3c5e9d6351d3",
+    "value": [
+        false,
+        "10 \u00b5F"
+    ]
+}

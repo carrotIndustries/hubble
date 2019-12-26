@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "base sot-523 P-channel MOSFET"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "4827c055-903e-4c48-a27b-167101c52549",
+    "package": "9260270c-dc4a-446a-9fcd-0f930e1ffabc",
+    "pad_map": {
+        "03eae3a5-6b86-4859-a831-06b32da3cb29": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "c8227bdb-d278-485c-a109-cdc288810f82": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "fae7463e-3cad-46b5-98fc-38304324fe87": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "p-channel"
+    ],
+    "type": "part",
+    "uuid": "35ada0b9-8abc-4537-9c4c-c09b15a53d44",
+    "value": [
+        false,
+        ""
+    ]
+}

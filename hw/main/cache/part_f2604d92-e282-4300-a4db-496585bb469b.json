@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RU1608FR100CS"
+    ],
+    "base": "7e7a7e7e-4697-48a7-9bc9-36190b557ac9",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Resistor Current Sensing 100 m\u03a9 1% 0.25W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.1"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "f2604d92-e282-4300-a4db-496585bb469b",
+    "value": [
+        false,
+        "100 m\u2126"
+    ]
+}

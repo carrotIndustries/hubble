@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "TPD2E001DRLR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/ds/symlink/tpd2e001.pdf"
+    ],
+    "description": [
+        false,
+        "Low-Capacitance 2-Channel ESD-Protection for High-Speed Data Interfaces"
+    ],
+    "entity": "6e907d39-7f84-475c-b270-e693d6035193",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "6928fd4c-f98e-42d2-a5e5-d4d2c757ac32",
+    "package": "cd1e7a02-9813-4f80-b1c7-93c5ea71ffb4",
+    "pad_map": {
+        "0cfb223c-8e99-4c54-98ea-c3123f7bb741": {
+            "gate": "a12cf9a0-327d-480c-9599-4ad69f746390",
+            "pin": "fd457406-5d89-4172-a8ec-0fa6f913af1a"
+        },
+        "73627dac-35dd-4b8e-b2aa-4c51034d9b39": {
+            "gate": "a12cf9a0-327d-480c-9599-4ad69f746390",
+            "pin": "7b2dfda3-e7a4-46dc-a024-2f8d05a2b01a"
+        },
+        "8279d0ff-85f6-4d30-8418-d9d4a18f5956": {
+            "gate": "a12cf9a0-327d-480c-9599-4ad69f746390",
+            "pin": "2b86a38f-6c3d-4680-b8c9-d21454fc3d0e"
+        },
+        "9ffcd630-07a6-414c-b8e4-da9b7e4ecc9f": {
+            "gate": "a12cf9a0-327d-480c-9599-4ad69f746390",
+            "pin": "fcccf6eb-2163-495a-99c0-632c984a9cb9"
+        },
+        "ecf0a8de-4dd8-493a-b092-10d6e6d81871": {
+            "gate": "a12cf9a0-327d-480c-9599-4ad69f746390",
+            "pin": "4a741bf2-3f91-4f50-b3c8-016d4ae7c572"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "0b6632c7-c291-43a8-adae-b4d0bd12e5dd",
+    "value": [
+        false,
+        ""
+    ]
+}

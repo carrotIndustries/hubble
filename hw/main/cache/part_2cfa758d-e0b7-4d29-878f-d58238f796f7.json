@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "SG-310SCF"
+    ],
+    "base": "3aa598ec-7295-4e66-8b59-0d98549f2e40",
+    "datasheet": [
+        false,
+        "https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-310SCF&lang=en"
+    ],
+    "description": [
+        true,
+        "Crystal Oscillator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "EPSON"
+    ],
+    "model": "25a44a9e-6591-4fe3-807a-cd2790131da0",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "2cfa758d-e0b7-4d29-878f-d58238f796f7",
+    "value": [
+        true,
+        "SG-310"
+    ]
+}

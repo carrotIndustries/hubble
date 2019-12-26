@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "RC 0603 Resistor Base Part"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Resistor General Purpose"
+    ],
+    "inherit_model": false,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [
+        "0603",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "9954497f-10af-4158-934b-3b53068f6de4",
+    "value": [
+        false,
+        ""
+    ]
+}

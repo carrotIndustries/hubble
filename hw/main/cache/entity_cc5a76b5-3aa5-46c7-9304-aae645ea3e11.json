@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "42bff908-0dea-423c-9dab-e7d999becaa3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "df1b4e47-be10-40c5-ab39-ec8ca5f2189f"
+        }
+    },
+    "manufacturer": "",
+    "name": "Oscillator with single-ended output and output enable",
+    "prefix": "U",
+    "tags": [
+        "oscillator"
+    ],
+    "type": "entity",
+    "uuid": "cc5a76b5-3aa5-46c7-9304-aae645ea3e11"
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "8ee37bc2-fcb5-4612-867c-4e1e338c6041": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e6d2aa0d-d714-4689-bf88-95678de8504f"
+        }
+    },
+    "manufacturer": "",
+    "name": "Boost regulator with enable",
+    "prefix": "U",
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "5c723cab-5313-419e-aed3-6e5a34777da8"
+}

@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "FH33-6S-0.5SH(10)"
+    ],
+    "datasheet": [
+        false,
+        "https://www.hirose.com/product/download/type=2d&lang=en&num=FH33-6S-0.5SH(10)"
+    ],
+    "description": [
+        false,
+        "6 Pin FFC Connector"
+    ],
+    "entity": "3163122e-5414-47a0-aa58-449d007268d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hirose"
+    ],
+    "model": "e50560e3-8ac3-4955-8724-60dbca8ed275",
+    "package": "73efac3d-d3e5-4bc9-ab78-370b7faed6a9",
+    "pad_map": {
+        "0a18e64a-7c1b-434f-a8d1-2bb36a0b0291": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "b2f80675-5fe9-4e98-bcdc-31ea9a03298b"
+        },
+        "28de4c0d-1271-499a-bc88-c0a00acf1187": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "ab526400-99a9-42e4-a5d2-1581085f6494"
+        },
+        "575d1051-5f14-4b7f-adcd-60cf25ce1f47": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "914b4eaf-67d5-4e01-a13c-0a4ba5a97ead"
+        },
+        "714fc82f-551b-40ad-a1cd-151deff09c3a": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "330b9d38-3926-4721-acef-c9aa1ab6e4bd"
+        },
+        "adfc9199-aeca-4b0c-8c67-8042ce57c40e": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "b5dfa031-2240-4c92-bc28-efe9bcca12e9"
+        },
+        "b9c93902-c3d1-47a6-b87e-c01fa839cd1c": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "a52796ce-980b-44da-b500-0e16047002e7"
+        },
+        "c1ed6589-8992-4156-b2a1-b0fd5e082a85": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "b2f80675-5fe9-4e98-bcdc-31ea9a03298b"
+        },
+        "e701ca4c-1b3e-4778-a882-498210ed5eb6": {
+            "gate": "5abc16ba-5d27-46bc-8b0f-7b7685a3d36b",
+            "pin": "14621993-a769-4155-a79f-3d6baec8bfab"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "ffc",
+        "fpc"
+    ],
+    "type": "part",
+    "uuid": "4a7dfff9-374f-45f9-9df8-0fe3ef63554f",
+    "value": [
+        false,
+        ""
+    ]
+}

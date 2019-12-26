@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PAM2301CAAB330"
+    ],
+    "base": "0b85d11f-be3d-4ca9-9648-385b4904e28f",
+    "datasheet": [
+        true,
+        "https://www.diodes.com/assets/Datasheets/PAM2301.pdf"
+    ],
+    "description": [
+        false,
+        "3.3V, 800mA step-down DC-DC converter"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Diodes Inc."
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1f9793fb-fe0b-480f-85e3-0dcac6134a6f",
+    "value": [
+        true,
+        "PAM2301"
+    ]
+}

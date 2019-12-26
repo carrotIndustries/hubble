@@ -1,0 +1,1 @@
+{"name": "Generic 1 pin connector", "manufacturer": "", "uuid": "b4d2282e-7d58-4a2a-9deb-c993b09dfcd2", "type": "unit", "pins": {"ad3f20fe-d1ca-40c1-9148-71c107694c90": {"direction": "passive", "names": [], "swap_group": 0, "primary_name": "1"}}}

@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPD2E001DRL",
+    "pins": {
+        "2b86a38f-6c3d-4680-b8c9-d21454fc3d0e": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "4a741bf2-3f91-4f50-b3c8-016d4ae7c572": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "7b2dfda3-e7a4-46dc-a024-2f8d05a2b01a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "fcccf6eb-2163-495a-99c0-632c984a9cb9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO1",
+            "swap_group": 0
+        },
+        "fd457406-5d89-4172-a8ec-0fa6f913af1a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IO2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "249c5d42-11bf-4569-8ff4-0b03bcac7a03"
+}

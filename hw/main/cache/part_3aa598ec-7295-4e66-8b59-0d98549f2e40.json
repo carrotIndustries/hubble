@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SG-310"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Crystal Oscillator"
+    ],
+    "entity": "cc5a76b5-3aa5-46c7-9304-aae645ea3e11",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "EPSON"
+    ],
+    "model": "25a44a9e-6591-4fe3-807a-cd2790131da0",
+    "package": "6d3afe3b-81e0-453a-ae96-084c01af1ed3",
+    "pad_map": {
+        "4fa32c7b-2444-4770-a358-0d19c5002188": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "4af91d9c-b058-4f76-a063-de1f20273ac8"
+        },
+        "61ad2ceb-a085-416f-aebe-c67ef20a60f7": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "025e3810-290c-4f20-96ef-7e5445e4273b"
+        },
+        "8dcc1723-e594-4240-8e2a-e406889834b0": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "37fe7855-2e8b-47e4-bf64-6bc0b3c3e619"
+        },
+        "d530fecc-6fe0-4f70-9aa4-a208ebc0195a": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "b481ccc7-46dc-4746-8387-dfdeaf819707"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "oscillator"
+    ],
+    "type": "part",
+    "uuid": "3aa598ec-7295-4e66-8b59-0d98549f2e40",
+    "value": [
+        false,
+        ""
+    ]
+}

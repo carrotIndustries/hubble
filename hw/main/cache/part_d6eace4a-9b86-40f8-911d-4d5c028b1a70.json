@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3EKF4700"
+    ],
+    "base": "25f985ce-3357-4a0f-b19d-4866ef892436",
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+    ],
+    "description": [
+        false,
+        "Chip Resistor 470 \u2126 1% 0.1W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "9a2fd172-adc4-4a2a-a6dd-7e5c2ab57f90": "ERJ-3EKF4700V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1.0",
+        "value": "470.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d6eace4a-9b86-40f8-911d-4d5c028b1a70",
+    "value": [
+        false,
+        "470 \u2126"
+    ]
+}

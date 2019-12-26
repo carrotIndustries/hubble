@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CC 0603 Capacitor Base Part"
+    ],
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6f27eb66-40e7-4dcc-baa1-887f336d41ed",
+    "value": [
+        true,
+        "base 0402 capacitor"
+    ]
+}

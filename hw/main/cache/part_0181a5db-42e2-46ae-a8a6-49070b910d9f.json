@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CBC3225T4R7MR"
+    ],
+    "base": "d674b3a6-8f6d-4b6b-9e43-36a40fc09a58",
+    "datasheet": [
+        false,
+        "http://ds.yuden.co.jp/TYCOMPAS/ut/detail.do?productNo=CBC3225T4R7MR&fileName=CBC3225T4R7MR_SS&mode=specSheetDownload"
+    ],
+    "description": [
+        false,
+        "Wire-wound Chip Power Inductor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0181a5db-42e2-46ae-a8a6-49070b910d9f",
+    "value": [
+        false,
+        "4.7 µH"
+    ]
+}

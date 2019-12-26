@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "188d0c15-8a9f-4ef4-ab72-3182ba98acf8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1ff21aa2-c401-47e0-8b09-bdbf4168d0cd"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STM32L412CxUx",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5156d094-b187-4e47-aec8-e78fee9733eb"
+}

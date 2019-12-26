@@ -1,0 +1,136 @@
+{
+    "MPN": [
+        false,
+        "DS1xxDF111"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Low-Power, Multirate, 2-Channel Retimer"
+    ],
+    "entity": "7fc885b0-a865-4ec5-a4cc-1a3680e34716",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "57de1d41-994b-473a-a66f-4bc1d31d12b8",
+    "package": "82beb012-b4a4-4c6f-9e75-9eb70f394c5b",
+    "pad_map": {
+        "00b67f22-87e5-48d8-8ad3-c54285d7e16c": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "1efa2cfa-e9e5-4a91-b500-161e570f4f45"
+        },
+        "041e4636-cf36-4b9e-9533-2669c0c145ae": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "522bfef7-d16d-404d-86e8-664312a1431a"
+        },
+        "11f393a3-73ba-4745-bcd6-d32d8457d0ee": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "051303b1-dee3-43e2-96ae-9ad1d86e2273"
+        },
+        "1a40528e-2de7-4a2e-a758-fd2c16e1c07f": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "ee64cbe4-4c00-4388-a65f-b2f45433f5d5"
+        },
+        "2868dcd6-4976-4738-9ffe-d00d255ede74": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "af65347b-a409-488a-a23d-8cedfafb1172"
+        },
+        "361f67f0-84cb-4a8c-8cf7-6c76427af50f": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "cb3575ee-f81d-472d-8cc1-c2f12058fc05"
+        },
+        "3d2df1fb-bdea-459a-99f5-8baf12cdc9af": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "923f0765-a2e0-49c2-8a20-b0ace1d92813"
+        },
+        "5a2d1897-6ccb-40eb-9e85-2685015850eb": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "04f08828-d9ae-4698-aab7-79b1ef65c68e"
+        },
+        "5e9dbe82-13b1-4796-88a0-88e066164644": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "1dfe4a4e-0fec-4116-b8cc-75bfc1a551ee"
+        },
+        "6035982c-4f47-45d3-b66f-a684e6cfec2a": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "18649bea-28ff-4147-a861-ad6001d9078f"
+        },
+        "7e849e39-86af-4ed6-acdb-930a3c8c7569": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "3670eaeb-da5a-4097-af9b-bb262f5bde35"
+        },
+        "90f7c63c-0819-487d-95f1-bfab085ade4a": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "6f51295b-1c32-4ba3-be78-d51de92dae08"
+        },
+        "9b801829-38c5-45f1-a655-bd34c7a18c5e": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "0888fc51-1713-49b3-9e9c-8914cc951ccb"
+        },
+        "9dbd20a1-54c8-4fc3-b36c-f06d13b8808b": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "984b36df-ad4b-4ef3-b21b-d2cf5d1a1388"
+        },
+        "9ddbea20-0a3a-4957-8541-99d007c73c08": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "fe215b7a-ea4d-4fea-a58c-fa805abb379e"
+        },
+        "a21a1022-cbda-4f01-9fea-a3c458bec02e": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "8ec1151f-055e-425b-894b-06c27d26dadc"
+        },
+        "a5a6fd50-faee-44f6-9b6f-84665330a2cf": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "74f5663e-9049-4d5e-b077-fa5623bf0e25"
+        },
+        "a8893ddd-7e76-4971-b2f0-0effdd1cde9e": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "3474d92b-f8f5-4694-8d55-4c8706e40af2"
+        },
+        "a94b58b0-347a-4e9b-83b7-ec84205a8a5d": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "b6ea230a-4d3c-487a-a55e-1dbea4052c34"
+        },
+        "d0a13854-ac0c-4790-a8fb-9875fb81b5d6": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "e726af84-4b2f-428a-b0da-61d465a1fc1b"
+        },
+        "d3a7b798-246f-4d14-8875-1b12644def1f": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "b229240d-cf10-4270-b34c-982eadbc7e21"
+        },
+        "de092010-a655-4ea4-87b3-97fcbe240458": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "74f5663e-9049-4d5e-b077-fa5623bf0e25"
+        },
+        "e36b1ab0-1f9c-4eb8-a631-0d8cca96dd5f": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "aee8801e-1cdd-43c7-84c2-399f887a3f5c"
+        },
+        "e7c161fc-5afe-4d8f-b838-83fe113a3e37": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "cba491a1-348d-49d8-b279-6659f6f5b125"
+        },
+        "eb997f86-4252-41e2-8df3-ce00974c477e": {
+            "gate": "bdbf0715-b40b-492c-bb09-e2d8df41680f",
+            "pin": "7396ae1a-7b8c-4484-ad35-302ab7285831"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "retimer"
+    ],
+    "type": "part",
+    "uuid": "59cd19b1-de4a-436d-ad3c-3bf9b1a83e2a",
+    "value": [
+        false,
+        ""
+    ]
+}

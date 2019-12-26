@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "6dce85e8-6b70-44ac-8ae8-d17152c3707a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "375ee5ff-c8af-4b5e-bf2f-a59f8eb54fc3"
+        }
+    },
+    "manufacturer": "",
+    "name": "P-channel MOSFET",
+    "prefix": "Q",
+    "tags": [
+        "bipolar",
+        "discrete",
+        "npn",
+        "transistor"
+    ],
+    "type": "entity",
+    "uuid": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859"
+}

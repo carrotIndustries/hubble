@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "3a9cf76e-893b-4785-a6af-6f15da2086dc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5cf859e7-139d-4c32-8884-3510fb9c9ad4"
+        }
+    },
+    "manufacturer": "",
+    "name": "Schottky diode",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "discrete",
+        "schottky"
+    ],
+    "type": "entity",
+    "uuid": "cba5158c-706d-4f10-b48a-2de7e5a82a4c"
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PTS525SM15SMTR2 LFS"
+    ],
+    "base": "cde3cd60-4595-4ec5-81ed-41ad6c78fc86",
+    "datasheet": [
+        true,
+        "https://www.ckswitches.com/media/1467/pts525.pdf"
+    ],
+    "description": [
+        true,
+        "Microminiature Tact Switch for SMT"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "C&K"
+    ],
+    "model": "6dbf58a5-7b7d-4e91-b33b-d59e81fc99b0",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9fd5f60f-b6a7-4b5d-a253-c4be0693e275",
+    "value": [
+        true,
+        "PTS525S[MK]"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "DS125DF111"
+    ],
+    "base": "59cd19b1-de4a-436d-ad3c-3bf9b1a83e2a",
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/ds125df111"
+    ],
+    "description": [
+        false,
+        "Low-Power, Multirate, 2-Channel Retimer, 9.8 to 12.5 GB/s"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "57de1d41-994b-473a-a66f-4bc1d31d12b8",
+    "orderable_MPNs": {
+        "f10166c0-037c-444f-b24e-f22d6ae205d6": "DS125DF111SQE",
+        "fd3d625e-3883-47ab-928b-f45a45f15f3b": "DS125DF111SQ"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1afdcf86-9f3f-4f5c-b05a-43ae765a99e8",
+    "value": [
+        true,
+        "DS1xxDF111"
+    ]
+}

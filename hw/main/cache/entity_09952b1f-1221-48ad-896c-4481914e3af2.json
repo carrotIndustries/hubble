@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "1926ff13-c95b-49f9-937c-35ac08ba9efb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d5b9dc4b-7732-477d-bd7a-be760af429d5"
+        }
+    },
+    "manufacturer": "",
+    "name": "Push Switch SPST Off-On",
+    "prefix": "S",
+    "tags": [
+        "button",
+        "mechanical",
+        "momentary",
+        "push",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "09952b1f-1221-48ad-896c-4481914e3af2"
+}

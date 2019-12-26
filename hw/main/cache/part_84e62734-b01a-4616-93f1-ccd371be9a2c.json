@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "DMG1013T-7"
+    ],
+    "base": "35ada0b9-8abc-4537-9c4c-c09b15a53d44",
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/ds31784.pdf"
+    ],
+    "description": [
+        false,
+        "P-Channel MOSFET, 20V, 460mA"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "4827c055-903e-4c48-a27b-167101c52549",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "84e62734-b01a-4616-93f1-ccd371be9a2c",
+    "value": [
+        true,
+        "base sot-523 P-channel MOSFET"
+    ]
+}
