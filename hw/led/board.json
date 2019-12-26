@@ -573,13 +573,37 @@
             "vertices": [
                 {
                     "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1000000,
+                        -6000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1000000,
+                        -5500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
                         1875000,
                         0
                     ],
                     "arc_reverse": false,
                     "position": [
                         -4375000,
-                        -6000000
+                        -5500000
                     ],
                     "type": "line"
                 },
@@ -1240,6 +1264,23 @@
             },
             "size": 1000000,
             "text": "E",
+            "width": 150000
+        },
+        "f495a403-90d0-4c57-9775-e187e9c40016": {
+            "font": "complex_italic",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    11750000,
+                    -5500000
+                ]
+            },
+            "size": 1000000,
+            "text": "rev2",
             "width": 150000
         },
         "fc264593-7295-4e83-887b-4347c3f6eaa6": {
