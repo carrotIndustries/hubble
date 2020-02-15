@@ -18,6 +18,10 @@ void view_led_main(const event_t *event)
     else if (event->type == EVENT_BUTTON && event->param == EVENT_BUTTON_DOWN) {
         led_set_level(led_get_level()-1);
     }
+    else if (event->type == EVENT_LED_ON) {
+        led_set_state(1);
+        led_set_level(3);
+    }
     dpy_set_font(DPY_FONT_32_BOLD);
     if (led_get_state()) {
         dpy_puts(0, 16, "ON");

@@ -61,6 +61,7 @@ void Error_Handler(void);
 #define BTN_DOWN_GPIO_Port GPIOC
 #define BTN_UP_Pin GPIO_PIN_0
 #define BTN_UP_GPIO_Port GPIOH
+#define BTN_UP_EXTI_IRQn EXTI0_IRQn
 #define OLED_CD_Pin GPIO_PIN_0
 #define OLED_CD_GPIO_Port GPIOA
 #define OLED_RESET_Pin GPIO_PIN_1

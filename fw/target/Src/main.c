@@ -582,7 +582,7 @@ static void MX_GPIO_Init(void)
 
   /*Configure GPIO pin : BTN_UP_Pin */
   GPIO_InitStruct.Pin = BTN_UP_Pin;
-  GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
+  GPIO_InitStruct.Mode = GPIO_MODE_IT_FALLING;
   GPIO_InitStruct.Pull = GPIO_PULLUP;
   HAL_GPIO_Init(BTN_UP_GPIO_Port, &GPIO_InitStruct);
 
@@ -645,6 +645,9 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_Init(SFP_LOS_GPIO_Port, &GPIO_InitStruct);
 
   /* EXTI interrupt init*/
+  HAL_NVIC_SetPriority(EXTI0_IRQn, 5, 0);
+  HAL_NVIC_EnableIRQ(EXTI0_IRQn);
+
   HAL_NVIC_SetPriority(EXTI2_IRQn, 5, 0);
   HAL_NVIC_EnableIRQ(EXTI2_IRQn);
 
@@ -672,6 +675,10 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
 	  wakeup_from_button = 1;
 	  wakeup_from_charger = 0;
   }
+  else if(GPIO_Pin == GPIO_PIN_0) {
+	  wakeup_from_button = 1;
+	  wakeup_from_charger = 0;
+  }
   else if(GPIO_Pin == GPIO_PIN_6) {
 	  wakeup_from_button = 0;
 	  wakeup_from_charger = 1;
@@ -696,20 +703,17 @@ void StartDefaultTask(void *argument)
   /* USER CODE BEGIN 5 */
   HAL_NVIC_DisableIRQ(EXTI15_10_IRQn);
   HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);
+  HAL_NVIC_DisableIRQ(EXTI0_IRQn);
   dpy_puts(0,0,"Hello");
   dpy_trg_flush();
   view_init(the_views, the_n_views);
-  {
-	  event_t ev = {.type = EVENT_NONE, .param = 0};
-	  xQueueSend(event_queue, &ev, 0);
-  }
+  send_event(EVENT_NONE, 0);
     /* Infinite loop */
     for (;;) {
     	event_t ev;
     	xQueueReceive(event_queue, &ev, portMAX_DELAY);
     	if(ev.type == EVENT_BUTTON && ev.param == (EVENT_BUTTON_MODE | EVENT_BUTTON_LONG)) {
-    		event_t ev = {.type = EVENT_POWER_OFF, .param = 0};
-    		xQueueSend(event_queue, &ev, 0);
+    		send_event(EVENT_POWER_OFF, 0);
     	}
     	else if(ev.type == EVENT_POWER_OFF) {
     		dpy_clear();
@@ -733,24 +737,37 @@ void StartDefaultTask(void *argument)
 				SysTick->CTRL &= ~SysTick_CTRL_ENABLE_Msk;
 				HAL_NVIC_EnableIRQ(EXTI15_10_IRQn);
 				HAL_NVIC_EnableIRQ(EXTI9_5_IRQn);
+				HAL_NVIC_EnableIRQ(EXTI0_IRQn);
 
 				HAL_PWREx_EnterSTOP2Mode(PWR_STOPENTRY_WFI);
 
 				HAL_NVIC_DisableIRQ(EXTI15_10_IRQn);
 				HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);
+				HAL_NVIC_DisableIRQ(EXTI0_IRQn);
 				SystemClock_Config();
 				SysTick->CTRL |= SysTick_CTRL_ENABLE_Msk;
 				TIM1->CR1 |= TIM_CR1_CEN;
 				if(wakeup_from_button) {
 					//while(1);
 					uint8_t delay = 0;
-					while (!HAL_GPIO_ReadPin(BTN_MODE_GPIO_Port, BTN_MODE_Pin) && delay < 200) {
-						HAL_Delay(10);
-						HAL_GPIO_TogglePin(SFP_TX_DIS_GPIO_Port, SFP_TX_DIS_Pin);
-						delay++;
+					uint8_t led_mode = 0;
+					if(!HAL_GPIO_ReadPin(BTN_MODE_GPIO_Port, BTN_MODE_Pin)) { //regular
+						while (!HAL_GPIO_ReadPin(BTN_MODE_GPIO_Port, BTN_MODE_Pin) && delay < 200) {
+							HAL_Delay(10);
+							delay++;
+						}
+					}
+					else if(!HAL_GPIO_ReadPin(BTN_UP_GPIO_Port, BTN_UP_Pin)) { //led
+						led_mode = 1;
+						while (!HAL_GPIO_ReadPin(BTN_UP_GPIO_Port, BTN_UP_Pin) && delay < 200) {
+							HAL_Delay(10);
+							delay++;
+						}
 					}
 					if(delay == 200) { //woken up
 						wakeup_from_button = 0;
+						if(led_mode)
+							send_event(EVENT_LED_ON, 0);
 						break;
 					}
 

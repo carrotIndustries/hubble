@@ -11,6 +11,7 @@ typedef enum {
 	EVENT_TIMER,
 	EVENT_POWER_OFF,
 	EVENT_SLEEP_TIMER,
+	EVENT_LED_ON,
 } event_type_t;
 
 typedef enum {
