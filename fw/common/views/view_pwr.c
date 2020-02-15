@@ -96,7 +96,7 @@ static int16_t get_temp(const sfp_mon_t *mon)
 static uint8_t item_sel = 0;
 static uint8_t show_dBm = 1;
 
-void view_pwr_main(const event_t *event)
+static void view_pwr_main(const event_t *event)
 {
     dpy_clear();
     view_draw_header("MON");
@@ -193,3 +193,14 @@ void view_pwr_main(const event_t *event)
         dpy_puts(8, 24, "no transceiver");
     }
 }
+
+static uint8_t view_pwr_is_available()
+{
+    return sfp_state_get() == SFP_STATE_READY && sfp_hw_has_mon();
+}
+
+
+const view_t view_pwr = {
+        .main = view_pwr_main,
+        .is_available = view_pwr_is_available,
+};

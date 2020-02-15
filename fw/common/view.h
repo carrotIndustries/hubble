@@ -4,6 +4,7 @@
 
 typedef struct {
 	void (*main)(const event_t *event);
+	uint8_t (*is_available)();
 } view_t;
 
 void view_init(const view_t **aviews, uint8_t n);

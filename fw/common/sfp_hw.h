@@ -25,3 +25,5 @@ typedef enum {
 } sfp_status_t;
 
 uint8_t sfp_hw_read_status(void);
+uint8_t sfp_hw_has_mon(void);
+

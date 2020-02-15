@@ -21,7 +21,7 @@ static uint8_t subview = 0;
 static uint16_t vct_status[4];
 static uint16_t last_vct_status;
 
-void view_phy_main(const event_t *event)
+static void view_phy_main(const event_t *event)
 {
     dpy_clear();
     view_draw_header("PHY");
@@ -66,11 +66,11 @@ void view_phy_main(const event_t *event)
         }
         else if (event->type == EVENT_BUTTON && event->param == EVENT_BUTTON_SELECT) {
             if (item_sel_tdr == 0) {
-            	if (sfp_model_get() == SFP_MODEL_88E111) {
-                if (!(m88e111_reg_read(M88E111_REG_VCT0) & M88E111_REG_VCT0_RUN)) {
-                    m88e111_reg_sbi(M88E111_REG_VCT0, M88E111_REG_VCT0_RUN);
+                if (sfp_model_get() == SFP_MODEL_88E111) {
+                    if (!(m88e111_reg_read(M88E111_REG_VCT0) & M88E111_REG_VCT0_RUN)) {
+                        m88e111_reg_sbi(M88E111_REG_VCT0, M88E111_REG_VCT0_RUN);
+                    }
                 }
-            	}
             }
             if (item_sel_tdr == 1) {
                 subview = 0;
@@ -212,3 +212,14 @@ void view_phy_main(const event_t *event)
         dpy_puts(8, 24, "no transceiver");
     }
 }
+
+static uint8_t view_phy_is_available()
+{
+    return sfp_model_get() == SFP_MODEL_88E111;
+}
+
+
+const view_t view_phy = {
+        .main = view_phy_main,
+        .is_available = view_phy_is_available,
+};

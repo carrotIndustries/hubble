@@ -98,6 +98,11 @@ static void fix_cal(sfp_alarm_cal_t *a)
     swap4(&a->rx_pwr0);
 }
 
+static void fix_sid(sfp_sid_t *s)
+{
+    swap2(&s->wavelength);
+}
+
 
 static uint8_t enter_sleep = 0;
 
@@ -159,6 +164,7 @@ static void sfp_trg_scan()
 }
 
 uint16_t rev_88e111;
+static uint8_t s_sfp_hw_has_mon = 0;
 
 void sfp_task_code(void *param)
 {
@@ -187,13 +193,16 @@ void sfp_task_code(void *param)
         vTaskDelay(250 / portTICK_PERIOD_MS);
         sfp_trg_i2c_enable();
         sfp_trg_scan();
+        s_sfp_hw_has_mon = 0;
         xSemaphoreTake(sfp_mutex, portMAX_DELAY);
         uint8_t r = sfp_hw_read(0xa0, 0, sizeof(sfp_sid_t), sfp_sid_get());
         if (r == SFP_READ_OK) {
+            fix_sid(sfp_sid_get());
             if (sfp_i2c_scan_has_addr8(0xa2)) {
                 uint8_t r_alarm = sfp_hw_read(0xa2, 0, sizeof(sfp_alarm_cal_t), sfp_alarm_cal_get());
                 if (r_alarm == SFP_READ_OK) {
                     fix_cal(sfp_alarm_cal_get());
+                    s_sfp_hw_has_mon = 1;
                 }
             }
             if (sfp_i2c_scan_has_addr8(SFP_I2C_ADDR_88E111)) {
@@ -288,4 +297,9 @@ uint8_t sfp_hw_read_status(void)
     if (HAL_GPIO_ReadPin(SFP_LOS_GPIO_Port, SFP_LOS_Pin))
         st |= SFP_STATUS_LOS;
     return st;
+}
+
+uint8_t sfp_hw_has_mon(void)
+{
+    return s_sfp_hw_has_mon;
 }

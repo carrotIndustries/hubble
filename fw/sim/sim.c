@@ -6,6 +6,7 @@
 #include "common/util.h"
 #include "common/view_timer.h"
 #include "common/views/views.h"
+#include "common/event.h"
 // gcc -std=c11  sim.c Graphics.c menu2/menu.c menu2/img.c  menu2/menu_defs.c -lzmq -o sim -g3 -Wall
 
 void view_timer_start(uint16_t interval)
@@ -19,6 +20,8 @@ void view_timer_stop()
 void send_event(uint8_t type, uint8_t param) {
 
 }
+
+void enter_bootloader(void) {}
 
 int main(void)
 {
