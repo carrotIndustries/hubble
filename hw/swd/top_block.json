@@ -287,6 +287,12 @@
             "power_symbol_style": "gnd"
         }
     },
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2019",
+        "project_title": "Hubble SWD Adapter",
+        "rev": "2"
+    },
     "tag_names": {
         "16b4865d-338e-488a-94bc-f2daa5b80ed4": "1",
         "778e53ae-6678-4fa1-aaf2-daa518c1f959": "2",
