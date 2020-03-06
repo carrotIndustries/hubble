@@ -1,80 +1,4 @@
 {
-    "_imp": {
-        "grid_spacing": 250000,
-        "layer_display": {
-            "layer_opacity": 60.0,
-            "layers": {
-                "-100": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "-110": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "-120": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "-130": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-140": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-150": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-160": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-200": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "0": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "10": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "100": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "20": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "200": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "30": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "40": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "50": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "60": {
-                    "display_mode": "outline",
-                    "visible": true
-                }
-            }
-        }
-    },
     "arcs": {},
     "block": "47ed50a0-4c27-4757-8997-c3d9a5b09c55",
     "colors": {
@@ -11324,6 +11248,20 @@
             }
         }
     },
+    "pnp_export_settings": {
+        "columns": [
+            "refdes",
+            "x",
+            "y",
+            "angle",
+            "side"
+        ],
+        "filename_bottom": "",
+        "filename_merged": "pnp.txt",
+        "filename_top": "",
+        "mode": "merged",
+        "output_directory": "output"
+    },
     "polygons": {
         "285dd042-5905-4ed2-bbe9-0164fa0f381d": {
             "layer": 100,
@@ -12541,6 +12479,11 @@
             "substrate_thickness": 1600000,
             "thickness": 35000
         }
+    },
+    "step_export_settings": {
+        "filename": "",
+        "include_3d_models": true,
+        "prefix": ""
     },
     "texts": {
         "008e8ded-caae-4045-9926-2b611a898fe0": {

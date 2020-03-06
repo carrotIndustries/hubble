@@ -2672,6 +2672,12 @@
             "power_symbol_style": "gnd"
         }
     },
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2019",
+        "project_title": "Hubble",
+        "rev": "3"
+    },
     "tag_names": {
         "0105c24c-dead-49aa-b659-76bc698f2452": "29",
         "04bfa6ee-61bd-49bc-b7b6-4555595e6f41": "14",
