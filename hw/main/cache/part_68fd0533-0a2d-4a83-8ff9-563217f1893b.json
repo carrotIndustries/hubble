@@ -1,12 +1,12 @@
 {
     "MPN": [
         false,
-        "CL21B475KAFNNNG"
+        "CL21B475KAFNNN"
     ],
     "base": "b00f7f9a-540d-4440-a73a-32732a8a8027",
     "datasheet": [
         false,
-        "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2019/04/01/Data sheet_CL21B475KAFNNNG.pdf"
+        "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21B475KAFNNNG.jsp"
     ],
     "description": [
         false,
@@ -19,8 +19,14 @@
         ""
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "58988aee-a8c4-48a6-8163-f80c0a5215f7": "CL21B475KAFNNNG",
+        "8235dd4f-2ccc-4de9-8356-e354b105be9d": "CL21B475KAFNNNE",
+        "c73726ad-7552-40e3-9d36-750bb17101cf": "CL21B475KAFNNNF"
+    },
     "parametric": {
         "table": "capacitors",
+        "tolerance": "10",
         "type": "X7R",
         "value": "4.7000e-06",
         "wvdc": "25.0"

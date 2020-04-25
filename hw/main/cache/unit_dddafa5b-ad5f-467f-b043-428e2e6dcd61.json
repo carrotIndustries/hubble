@@ -1,6 +1,6 @@
 {
     "manufacturer": "",
-    "name": "Boost regulator with enable",
+    "name": "Boost regulator with enable and Vout",
     "pins": {
         "1f43044c-b0d1-4d23-8a61-ee6cc09df3d1": {
             "direction": "power_input",
@@ -31,8 +31,14 @@
             "names": [],
             "primary_name": "FB",
             "swap_group": 0
+        },
+        "e67d286e-3b8d-4a85-99a9-2d89f15ba07b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
         }
     },
     "type": "unit",
-    "uuid": "e6d2aa0d-d714-4689-bf88-95678de8504f"
+    "uuid": "dddafa5b-ad5f-467f-b043-428e2e6dcd61"
 }

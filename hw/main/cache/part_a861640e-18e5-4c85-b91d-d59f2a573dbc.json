@@ -6,7 +6,7 @@
     "base": "6f27eb66-40e7-4dcc-baa1-887f336d41ed",
     "datasheet": [
         false,
-        "http://www.yageo.com/portal/product/productDocs.jsp?YageoPartNumber=CC0603K_X7R9BB223"
+        "http://www.yageo.com/portal/product/productDocs.jsp?YageoPartNumber=CC0603KPX7R9BB223"
     ],
     "description": [
         false,
@@ -25,6 +25,7 @@
     },
     "parametric": {
         "table": "capacitors",
+        "tolerance": "10",
         "type": "X7R",
         "value": "2.2000e-08",
         "wvdc": "50.0"

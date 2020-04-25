@@ -4,11 +4,11 @@
             "name": "Main",
             "suffix": "",
             "swap_group": 0,
-            "unit": "e6d2aa0d-d714-4689-bf88-95678de8504f"
+            "unit": "dddafa5b-ad5f-467f-b043-428e2e6dcd61"
         }
     },
     "manufacturer": "",
-    "name": "Boost regulator with enable",
+    "name": "Boost regulator with enable and Vout",
     "prefix": "U",
     "tags": [
         "dcdc",
@@ -16,5 +16,5 @@
         "regulator"
     ],
     "type": "entity",
-    "uuid": "5c723cab-5313-419e-aed3-6e5a34777da8"
+    "uuid": "11eccb81-cf01-4012-bc65-0a263be13a10"
 }

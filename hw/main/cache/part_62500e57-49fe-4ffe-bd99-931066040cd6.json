@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "TPS6229x"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tps62290"
+    ],
+    "description": [
+        false,
+        "1-A Step Down Converter"
+    ],
+    "entity": "7e10717b-8d64-4d65-8baf-2cb178a0c6dd",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d1e4cc30-188e-4be1-bc6f-a3a009fd9090",
+    "pad_map": {
+        "1200cbc5-f574-47c6-b5cb-330172285823": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "da94c74b-192e-4479-b240-0cb1ac203a55"
+        },
+        "4e40ab6c-a37f-41a5-9c40-e6801acb7814": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "f4831629-2db2-4070-bc4f-858073e459d4"
+        },
+        "6eb4fdc6-aa98-498c-96c1-f24ca57f1835": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "be82e543-900f-409c-ba2b-62c2e95d69fd"
+        },
+        "7cf8234d-1a24-4808-a999-b479cb4a2064": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "c2610677-dbea-4afe-85b0-714ae837095e"
+        },
+        "95af9cbf-5783-497a-b266-d451e534da8b": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "be82e543-900f-409c-ba2b-62c2e95d69fd"
+        },
+        "c6964faf-818c-4f9f-84d6-e20bfe6de560": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "d787bcae-e253-4ffc-8681-0cd5e3643146"
+        },
+        "f518655f-41b3-4ed8-babf-14d37259434b": {
+            "gate": "cab20bcf-7714-46ff-ae32-1def4515d682",
+            "pin": "f514fadd-20ef-425a-b906-bc1cd5edc165"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "62500e57-49fe-4ffe-bd99-931066040cd6",
+    "value": [
+        false,
+        ""
+    ]
+}

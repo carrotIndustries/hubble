@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "TPS62291"
+    ],
+    "base": "62500e57-49fe-4ffe-bd99-931066040cd6",
+    "datasheet": [
+        true,
+        "http://www.ti.com/lit/gpn/tps62290"
+    ],
+    "description": [
+        false,
+        "3.3V fixed, 1-A Step Down Converter"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "99b20000-2de8-4dfe-84cd-b0425fa7d6e8",
+    "orderable_MPNs": {
+        "3fc98664-e4b3-4fcc-ba76-6f80cb5f75ea": "TPS62291DRVR",
+        "900706fd-ad9e-42ba-9b7e-5b359f78c249": "TPS62291DRVT"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d4008319-c3aa-4bac-9629-acfeee66fb34",
+    "value": [
+        true,
+        "TPS6229x"
+    ]
+}

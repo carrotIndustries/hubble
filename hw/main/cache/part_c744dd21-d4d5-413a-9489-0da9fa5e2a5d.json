@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "TLV61046A"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tlv61046a"
+    ],
+    "description": [
+        false,
+        "28-V Output Voltage Boost Converter with Power Diode and Isolation Switch"
+    ],
+    "entity": "11eccb81-cf01-4012-bc65-0a263be13a10",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "d72fc8d1-69ba-46d8-b9f1-63cf4b4b4907",
+    "orderable_MPNs": {
+        "a735d93f-f5d5-440b-b12a-eeb4a92e358d": "TLV61046ADBVR",
+        "e75aa314-fc49-4f4a-847d-09a2e6f1ee76": "TLV61046ADBVT"
+    },
+    "package": "92fc17dc-98b7-491c-bf15-bb860b8b23a8",
+    "pad_map": {
+        "1ff65f5a-efed-46a2-a9dd-a29f42fae9f2": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "d839d86e-1f44-431c-ba95-622e2c9d4f86"
+        },
+        "5023176e-0188-4b78-a106-dc18dc65880b": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "b12044c7-2f07-48d6-b03b-609b3c6036d7"
+        },
+        "5077976f-f56d-4319-aa68-d60864f83d7a": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "e67d286e-3b8d-4a85-99a9-2d89f15ba07b"
+        },
+        "59f542a7-e248-47de-b0f5-6a79c7761d7c": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "de6b159a-e426-4cb6-9bf8-9d1a9279e0fa"
+        },
+        "95821a81-23a1-4f75-8de0-b3f0b7575311": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "a2485859-f81f-455b-8e07-44d7d0118856"
+        },
+        "dfd8347a-b99f-42c2-9401-0a63ce9667dc": {
+            "gate": "8ee37bc2-fcb5-4612-867c-4e1e338c6041",
+            "pin": "1f43044c-b0d1-4d23-8a61-ee6cc09df3d1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "c744dd21-d4d5-413a-9489-0da9fa5e2a5d",
+    "value": [
+        false,
+        ""
+    ]
+}

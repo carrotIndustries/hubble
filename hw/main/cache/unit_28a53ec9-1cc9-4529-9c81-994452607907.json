@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TPS6229x",
+    "pins": {
+        "be82e543-900f-409c-ba2b-62c2e95d69fd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "c2610677-dbea-4afe-85b0-714ae837095e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "d787bcae-e253-4ffc-8681-0cd5e3643146": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "da94c74b-192e-4479-b240-0cb1ac203a55": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE",
+            "swap_group": 0
+        },
+        "f4831629-2db2-4070-bc4f-858073e459d4": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "f514fadd-20ef-425a-b906-bc1cd5edc165": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "28a53ec9-1cc9-4529-9c81-994452607907"
+}

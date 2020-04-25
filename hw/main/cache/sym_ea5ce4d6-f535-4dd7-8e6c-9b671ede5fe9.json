@@ -1,0 +1,202 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "0b7aa7cb-a3ff-42b6-bf9f-f42b42185fb9": {
+            "position": [
+                8750000,
+                5000000
+            ]
+        },
+        "523a28d2-de85-44f2-a740-8935981b313b": {
+            "position": [
+                -8750000,
+                -5000000
+            ]
+        },
+        "5fbd2fed-aab0-4cbf-a17f-54519c812d36": {
+            "position": [
+                -8750000,
+                5000000
+            ]
+        },
+        "ed143ade-58f2-4012-9d21-ace63b3ccbd0": {
+            "position": [
+                8750000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "4035ca08-330f-4e10-836e-42162db6612f": {
+            "from": "523a28d2-de85-44f2-a740-8935981b313b",
+            "layer": 0,
+            "to": "5fbd2fed-aab0-4cbf-a17f-54519c812d36",
+            "width": 0
+        },
+        "5899aad6-5e83-406f-b6ee-1e8ac98667ed": {
+            "from": "0b7aa7cb-a3ff-42b6-bf9f-f42b42185fb9",
+            "layer": 0,
+            "to": "ed143ade-58f2-4012-9d21-ace63b3ccbd0",
+            "width": 0
+        },
+        "a4a71f2f-9ec9-486f-8e0d-1e93c6fc72f6": {
+            "from": "ed143ade-58f2-4012-9d21-ace63b3ccbd0",
+            "layer": 0,
+            "to": "523a28d2-de85-44f2-a740-8935981b313b",
+            "width": 0
+        },
+        "fcc77df8-be36-4b2f-8884-c5bc705836d9": {
+            "from": "5fbd2fed-aab0-4cbf-a17f-54519c812d36",
+            "layer": 0,
+            "to": "0b7aa7cb-a3ff-42b6-bf9f-f42b42185fb9",
+            "width": 0
+        }
+    },
+    "name": "Boost regulator with enable and Vout",
+    "pins": {
+        "1f43044c-b0d1-4d23-8a61-ee6cc09df3d1": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -7500000
+            ]
+        },
+        "a2485859-f81f-455b-8e07-44d7d0118856": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                7500000
+            ]
+        },
+        "b12044c7-2f07-48d6-b03b-609b3c6036d7": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                -2500000
+            ]
+        },
+        "d839d86e-1f44-431c-ba95-622e2c9d4f86": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -11250000,
+                2500000
+            ]
+        },
+        "de6b159a-e426-4cb6-9bf8-9d1a9279e0fa": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                11250000,
+                -2500000
+            ]
+        },
+        "e67d286e-3b8d-4a85-99a9-2d89f15ba07b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                11250000,
+                2500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "bd86d2f2-401e-47fd-8022-fd94ff7b9cec": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "c1a5db5d-19ff-45b8-81b6-ab70b5845f74": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "dddafa5b-ad5f-467f-b043-428e2e6dcd61",
+    "uuid": "ea5ce4d6-f535-4dd7-8e6c-9b671ede5fe9"
+}

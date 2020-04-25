@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "cab20bcf-7714-46ff-ae32-1def4515d682": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "28a53ec9-1cc9-4529-9c81-994452607907"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TPS6229x",
+    "prefix": "U",
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "7e10717b-8d64-4d65-8baf-2cb178a0c6dd"
+}
