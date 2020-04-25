@@ -1,80 +1,4 @@
 {
-    "_imp": {
-        "grid_spacing": 250000,
-        "layer_display": {
-            "layer_opacity": 50.0,
-            "layers": {
-                "-100": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "-110": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-120": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "-130": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-140": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-150": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-160": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-200": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "0": {
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "10": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "100": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "20": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "200": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "30": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "40": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "50": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "60": {
-                    "display_mode": "outline",
-                    "visible": true
-                }
-            }
-        }
-    },
     "arcs": {},
     "block": "71a08319-7bf1-49c5-8f0f-9e9eb0244534",
     "colors": {
@@ -670,6 +594,15 @@
                 "enabled": true,
                 "mode": "outline"
             },
+            "110": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": true,
+                "mode": "outline"
+            },
             "20": {
                 "color": {
                     "b": 0.0,
@@ -713,6 +646,20 @@
         "reverse_layers": false
     },
     "planes": {},
+    "pnp_export_settings": {
+        "columns": [
+            "refdes",
+            "x",
+            "y",
+            "angle",
+            "side"
+        ],
+        "filename_bottom": "",
+        "filename_merged": "",
+        "filename_top": "",
+        "mode": "merged",
+        "output_directory": ""
+    },
     "polygons": {
         "9961a89c-b2ca-4fe8-8570-c961828c4e7f": {
             "layer": 100,
@@ -1098,6 +1045,11 @@
             "thickness": 35000
         }
     },
+    "step_export_settings": {
+        "filename": "",
+        "include_3d_models": true,
+        "prefix": ""
+    },
     "texts": {
         "035eb7de-6368-43e4-88df-1c684feab9e3": {
             "font": "complex_italic",
@@ -1368,7 +1320,7 @@
                 ]
             },
             "size": 2000000,
-            "text": "rev 2",
+            "text": "rev $rev",
             "width": 300000
         },
         "bca0bad9-1a9a-4b70-8fcf-6d0fb31338f2": {
