@@ -222,9 +222,10 @@
     },
     "title_block_values": {
         "author": "Lukas K.",
-        "date": "2019",
+        "date": "2020",
+        "project_name": "",
         "project_title": "Hubble LED",
-        "rev": "1"
+        "rev": "2"
     },
     "type": "schematic_block",
     "uuid": "83b882c3-0e6e-40a4-854a-9544808d0f05"

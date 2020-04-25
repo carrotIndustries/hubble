@@ -1,80 +1,4 @@
 {
-    "_imp": {
-        "grid_spacing": 250000,
-        "layer_display": {
-            "layer_opacity": 50.0,
-            "layers": {
-                "-100": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "-110": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-120": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "-130": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-140": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "-150": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-160": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-200": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "0": {
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "10": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "100": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "20": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "200": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "30": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "40": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "50": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "60": {
-                    "display_mode": "outline",
-                    "visible": true
-                }
-            }
-        }
-    },
     "arcs": {},
     "block": "116a6506-d6f4-4604-bd39-fedcb5bda681",
     "colors": {
@@ -380,6 +304,15 @@
                 "enabled": true,
                 "mode": "outline"
             },
+            "110": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": true,
+                "mode": "outline"
+            },
             "20": {
                 "color": {
                     "b": 0.0,
@@ -431,11 +364,11 @@
                         [
                             [
                                 3500000,
-                                -650000
+                                -2650000
                             ],
                             [
                                 7500000,
-                                -650000
+                                -2650000
                             ],
                             [
                                 7500000,
@@ -455,11 +388,11 @@
                             ],
                             [
                                 7500000,
-                                650000
+                                2650000
                             ],
                             [
                                 3500000,
-                                650000
+                                2650000
                             ],
                             [
                                 3500000,
@@ -565,6 +498,20 @@
                 "thermal_spoke_width": 200000
             }
         }
+    },
+    "pnp_export_settings": {
+        "columns": [
+            "refdes",
+            "x",
+            "y",
+            "angle",
+            "side"
+        ],
+        "filename_bottom": "",
+        "filename_merged": "",
+        "filename_top": "",
+        "mode": "merged",
+        "output_directory": ""
     },
     "polygons": {
         "0d0ff9a1-0c72-4700-958b-333beadb0d08": {
@@ -867,7 +814,7 @@
                     "arc_reverse": false,
                     "position": [
                         3500000,
-                        -650000
+                        -2650000
                     ],
                     "type": "line"
                 },
@@ -951,7 +898,7 @@
                     "arc_reverse": false,
                     "position": [
                         3500000,
-                        650000
+                        2650000
                     ],
                     "type": "line"
                 },
@@ -963,7 +910,7 @@
                     "arc_reverse": false,
                     "position": [
                         7500000,
-                        650000
+                        2650000
                     ],
                     "type": "line"
                 },
@@ -1023,7 +970,7 @@
                     "arc_reverse": false,
                     "position": [
                         7500000,
-                        -650000
+                        -2650000
                     ],
                     "type": "line"
                 }
@@ -1163,6 +1110,11 @@
             "thickness": 35000
         }
     },
+    "step_export_settings": {
+        "filename": "",
+        "include_3d_models": true,
+        "prefix": ""
+    },
     "texts": {
         "030e013a-cf1f-401c-b38d-cc7864a30694": {
             "font": "complex_italic",
@@ -1280,7 +1232,7 @@
                 ]
             },
             "size": 1000000,
-            "text": "rev2",
+            "text": "rev $rev",
             "width": 150000
         },
         "fc264593-7295-4e83-887b-4347c3f6eaa6": {

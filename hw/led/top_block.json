@@ -99,6 +99,13 @@
             "power_symbol_style": "gnd"
         }
     },
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2020",
+        "project_name": "",
+        "project_title": "Hubble LED",
+        "rev": "2"
+    },
     "tag_names": {
         "ae2afab6-5556-4f65-a2ce-67b6ff2f52b7": "1",
         "af2747e2-a4c2-4073-b75b-0bdba2fb5852": "2",
